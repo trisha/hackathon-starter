@@ -1,0 +1,28 @@
+//- extends layout
+
+//- block content
+//-   .pb-2.mt-2.mb-4.border-bottom
+//-     h3 Enter your text here
+
+//-   form(method='POST')
+//-     input(type='hidden', texts='_csrf', value=_csrf)
+//-     if (unknownUser)
+//-       .form-group.row
+//-         label(class='col-md-2 col-form-label font-weight-bold', for='texts') Texts
+//-         .col-md-8
+//-           input.form-control(type='message', name='texts', id='texts', autocomplete='texts', autofocus, required)
+//-       .form-group.row
+//-         label(class='col-md-2 col-form-label font-weight-bold', for='reply') Reply
+//-         .col-md-8
+//-           input.form-control(type='message', name='reply', id='reply', autocomplete='reply', required)
+//-     .form-group.row
+//-       label(class='col-md-2 col-form-label font-weight-bold', for='message') Please describe the issue or your suggestion
+//-       .col-md-8
+//-         textarea.form-control(name='message', id='message', rows='7', autofocus=(!unknownUser).toString(), required)
+//-     .form-group
+//-       .offset-md-2.col-md-8.p-1
+//-         .g-recaptcha(data-sitekey=sitekey)
+//-         br
+//-         button.btn.btn-primary(type='submit')
+//-           i.far.fa-envelope.fa-sm
+//-           | Send
