@@ -57,6 +57,14 @@ describe('GET /contact', () => {
   });
 });
 
+// describe('GET /chat', () => {
+//   it('should return 200 OK', (done) => {
+//     request(app)
+//       .get('/chat')
+//       .expect(200, done);
+//   });
+// });
+
 describe('GET /api/lastfm', () => {
   it('should return 200 OK', (done) => {
     request(app)
