@@ -6,7 +6,7 @@ Table of Contents
 
 About
 -------------
-If you've ever had a heated or emotional argument over text, first of all, don't. At the very least communicate over voice. But, if you do find yourself in situations where your emotions or ego get the best of you, and you want to resolve your conflict, AI can help you say things that are still try to how you feel, but in a way that's tactful and will make the other person feel heard and receptive to your feelings.
+If you've ever had a heated or emotional argument over text, first of all, don't. At the very least communicate over voice. But, if you do find yourself in written situations where your emotions or ego get the best of you, and you want to resolve your conflict, AI can help you say things that are still try to how you feel, but in a way that's tactful and will make the other person feel heard and receptive to your feelings.
 
 How this app will work:
 
